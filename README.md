@@ -8,7 +8,7 @@
 * Generated and managed comprehensive manufacturing outputs, including the Bill of Materials (BOM).
 
 ## Hardware Resources
-* 📋 **Bill of Materials (BOM):** [View BOM File](BOM_ESP32_Control_Board.pdf)
+* 📋 **Bill of Materials (BOM):** [View BOM File](BOM_32.pdf)
 
 ## Project Images
 
